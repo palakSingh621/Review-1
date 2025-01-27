@@ -8,6 +8,7 @@ class Review1
 		int count=obj.CountingDigits(a);
 		Console.WriteLine("Task-1 Of counting digits: "+count);
 	}
+// Task-1
 	public int CountingDigits(int n)
 	{
 		int count=0;
